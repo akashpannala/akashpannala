@@ -18,6 +18,7 @@ Currently exploring agentic workflows, fine-tuning, and RAG evaluation. Looking 
 ## 🛠 Tech Stack
 
 **AI/ML/DL**
+
 ![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://img.shields.io/badge/Matplotlib-ffffff?style=for-the-badge&logo=Matplotlib&logoColor=black)
@@ -25,6 +26,7 @@ Currently exploring agentic workflows, fine-tuning, and RAG evaluation. Looking 
 ![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=PyTorch&logoColor=white)
 
 **MLOps**
+
 ![MLflow](https://img.shields.io/badge/MLflow-d9ead3?style=for-the-badge&logo=mlflow&logoColor=blue)
 ![DVC](https://img.shields.io/badge/DVC-945DD6?style=for-the-badge&logo=dvc&logoColor=white)
 ![ZenML](https://img.shields.io/badge/ZenML-431D93?style=for-the-badge&logoColor=white)
@@ -32,6 +34,7 @@ Currently exploring agentic workflows, fine-tuning, and RAG evaluation. Looking 
 ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
 
 **LLM**
+
 ![HuggingFace](https://img.shields.io/badge/HuggingFace-FFD21E?style=for-the-badge&logo=huggingface&logoColor=black)
 ![Ollama](https://img.shields.io/badge/Ollama-000000?style=for-the-badge&logo=ollama&logoColor=white)
 ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white)
@@ -39,6 +42,7 @@ Currently exploring agentic workflows, fine-tuning, and RAG evaluation. Looking 
 ![Unsloth](https://img.shields.io/badge/Unsloth-7B2FBE?style=for-the-badge&logoColor=white)
 
 **Evaluation & Tracing**
+
 ![Langfuse](https://img.shields.io/badge/Langfuse-000000?style=for-the-badge&logoColor=white)
 ![RAGAS](https://img.shields.io/badge/RAGAS-4B8BBE?style=for-the-badge&logoColor=white)
 ![DeepEval](https://img.shields.io/badge/DeepEval-FF6B6B?style=for-the-badge&logoColor=white)
@@ -47,6 +51,7 @@ Currently exploring agentic workflows, fine-tuning, and RAG evaluation. Looking 
 
 
 **Infrastructure & Cloud**
+
 ![GitHub](https://img.shields.io/badge/GitHub-121011?style=for-the-badge&logo=github&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
